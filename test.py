@@ -3,7 +3,7 @@
 
 import requests
 
-model_inputs = {'prompt': 'Hello I am a [MASK] model.'}
+model_inputs = {'max_new_tokens': 8, 'prompt': 'def hello_world():'}
 
 res = requests.post('http://localhost:8000/', json = model_inputs)
 

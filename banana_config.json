@@ -1,0 +1,11 @@
+{
+    "name": "Codegen 2B Multi",
+    "category": "Natural Language",
+    "example_input": {
+        "max_new_tokens": 8,
+        "prompt": "def hello_world():"
+    },
+    "example_output": {
+        "base64_output": "return 'Hello World!'"},
+    "version": "1"
+  }

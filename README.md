@@ -1,7 +1,7 @@
 
 # 🍌 Banana Serverless
 
-This repo gives a framework to serve ML models in production using simple HTTP servers.
+This repo gives a framework to serve ML models in production using simple HTTP servers. The model can be found on [huggingface here](https://huggingface.co/Salesforce/codegen-2B-multi).
 
 # Quickstart
 **[Follow the quickstart guide in Banana's documentation to use this repo](https://docs.banana.dev/banana-docs/quickstart).** 
